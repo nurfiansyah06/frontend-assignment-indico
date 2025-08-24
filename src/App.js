@@ -7,7 +7,7 @@ import {
   QueryClientProvider,
 
 } from "@tanstack/react-query";
-import { ThemeProvider, createTheme } from "@mui/material/styles";
+import { ThemeProvider } from "@mui/material/styles";
 
 import theme from "./utils/Theme";
 import UserManagementApp from "./features/users/pages/UserManagementPage";
